@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Diarmuid Considine!
-- 🌱 I’m currently learning Software Development through the Higher Diploma in Software Development in Atlantic Technological University. - I'm learning technologies including Java, JUnit, SQL, HTML, CSS, PHP, JavaScript, TypeScript, Ionic/Angular, among others.
+- 🌱 I’m a Software Developer who has recently completed their Higher Diploma in Software Development in Atlantic Technological University. - I'm learning technologies including Java, JUnit, SQL, HTML, CSS, PHP, JavaScript, TypeScript, Ionic/Angular, among others.
 - 📫 How to reach me: diarmuidcons@gmail.com, https://www.linkedin.com/in/diarmuid-considine/
 - 💞️ I’m seeking work as a Software Developer.
 
